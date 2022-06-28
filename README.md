@@ -6,8 +6,8 @@
 ### Project Manager
 _Jan 2021 to Current_
 
-- Came in as the first Professional Services PM to build out Project Management for that $$$$$ business
-- Led successful engagements with four Fortune 100 companies from start to end of contract, spanning technology and financial sectors
+- Hired as the first Professional Services PM to build out the Project Management processes and team for the consulting business
+- Led successful multi-million dollar engagements with four Fortune 100 companies, spanning technology and financial sectors
 - Hired and trained four other PMs in different regions across a global team
 - Implemented multiple process improvement initiatives including implementation of CRM system, engineering lifecycle improvements, and standardization of customer engagement processes
 
