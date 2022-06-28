@@ -34,7 +34,8 @@ _Jul 2015 to Jul 2017_
 
 - Owned technical project management of onboarding process for 100+ Enterprise level clients including Fortune 500 and Inc. 5000 companies with revenues of 30M+  
 - Worked cross-departmentally to resolve Enterprise level client issues quickly and effectively, acting as a client advocate to internal Product and Engineering teams to identify areas of product opportunity
-### E-Commerce Consultant
+
+### Ecommerce Consultant
 _Aug 2014 to Jul 2015_
 
 - Drove revenue growth from zero to $500k/year through leadership and training a team of SEO and onboarding consultants in key performance metrics, weekly training sessions, and skills based certifications
